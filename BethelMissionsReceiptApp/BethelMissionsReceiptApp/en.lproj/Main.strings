@@ -1,0 +1,198 @@
+
+/* Class = "UILabel"; text = "EDITED"; ObjectID = "1Le-Jw-EcG"; */
+"1Le-Jw-EcG.text" = "EDITED";
+
+/* Class = "UILabel"; text = "Don't worry, this number doesn't have to be exact, it will only be used for your benefit to give you an estimate as to how much money your team has left to spend."; ObjectID = "2Yb-lL-dE4"; */
+"2Yb-lL-dE4.text" = "Don't worry, this number doesn't have to be exact, it will only be used for your benefit to give you an estimate as to how much money your team has left to spend.";
+
+/* Class = "UITextField"; placeholder = "Type here"; ObjectID = "3jk-zR-KCW"; */
+"3jk-zR-KCW.placeholder" = "Type here";
+
+/* Class = "UITextField"; placeholder = "passcode"; ObjectID = "41q-GV-TRa"; */
+"41q-GV-TRa.placeholder" = "passcode";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "4Gc-th-aMd"; */
+"4Gc-th-aMd.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Select your name from the list so we know"; ObjectID = "Aq1-HO-5dR"; */
+"Aq1-HO-5dR.text" = "Select your name from the list so we know";
+
+/* Class = "UILabel"; text = "Add more currencies in Settings section of the app."; ObjectID = "BIC-Rm-aXT"; */
+"BIC-Rm-aXT.text" = "Add more currencies in Settings section of the app.";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "BRo-gG-USz"; */
+"BRo-gG-USz.text" = "Price";
+
+/* Class = "UILabel"; text = "who you are when you upload a receipt:"; ObjectID = "BRv-5f-zIy"; */
+"BRv-5f-zIy.text" = "who you are when you upload a receipt:";
+
+/* Class = "UILabel"; text = "Costa Ricca 2016"; ObjectID = "CWz-Di-9Ue"; */
+"CWz-Di-9Ue.text" = "Costa Ricca 2016";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "Cye-ej-Nnn"; */
+"Cye-ej-Nnn.text" = "$";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "FQO-oe-F5Y"; */
+"FQO-oe-F5Y.normalTitle" = "CONTINUE";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "GI7-X2-pie"; */
+"GI7-X2-pie.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Select currency"; ObjectID = "GkP-P0-6KS"; */
+"GkP-P0-6KS.placeholder" = "Select currency";
+
+/* Class = "UITextField"; text = "USD"; ObjectID = "GkP-P0-6KS"; */
+"GkP-P0-6KS.text" = "USD";
+
+/* Class = "UIButton"; normalTitle = "Select Currencies"; ObjectID = "Gq2-Dk-jNk"; */
+"Gq2-Dk-jNk.normalTitle" = "Select Currencies";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HbM-uK-3Vk"; */
+"HbM-uK-3Vk.text" = "Label";
+
+/* Class = "UILabel"; text = "09/14/15 6:30 pm"; ObjectID = "Iif-JW-OF8"; */
+"Iif-JW-OF8.text" = "09/14/15 6:30 pm";
+
+/* Class = "UILabel"; text = "Total Spent"; ObjectID = "Ik4-Xo-1Za"; */
+"Ik4-Xo-1Za.text" = "Total Spent";
+
+/* Class = "UILabel"; text = "Receipt too long? You can add sections to this receipt after pressing \"Take Picture\""; ObjectID = "JJe-pW-2YH"; */
+"JJe-pW-2YH.text" = "Receipt too long? You can add sections to this receipt after pressing \"Take Picture\"";
+
+/* Class = "UILabel"; text = "USD"; ObjectID = "JLy-YN-sVW"; */
+"JLy-YN-sVW.text" = "USD";
+
+/* Class = "UILabel"; text = "Some quick questions about your trip"; ObjectID = "Jbm-Yt-dHX"; */
+"Jbm-Yt-dHX.text" = "Some quick questions about your trip";
+
+/* Class = "UITextField"; placeholder = "Select category"; ObjectID = "Jxp-fh-OYd"; */
+"Jxp-fh-OYd.placeholder" = "Select category";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KAM-Pd-rKY"; */
+"KAM-Pd-rKY.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Lhc-CX-kyp"; */
+"Lhc-CX-kyp.normalTitle" = "Cancel";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "MCn-an-USf"; */
+"MCn-an-USf.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Retake"; ObjectID = "NQL-DG-2RC"; */
+"NQL-DG-2RC.normalTitle" = "Retake";
+
+/* Class = "UITextField"; placeholder = "type here"; ObjectID = "Nkj-8u-jMW"; */
+"Nkj-8u-jMW.placeholder" = "type here";
+
+/* Class = "UILabel"; text = "Currency"; ObjectID = "OBN-h5-EE1"; */
+"OBN-h5-EE1.text" = "Currency";
+
+/* Class = "UINavigationItem"; title = "Receipts"; ObjectID = "QMw-u0-F5f"; */
+"QMw-u0-F5f.title" = "Receipts";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "QgX-fy-sPZ"; */
+"QgX-fy-sPZ.text" = "Category";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SwK-Fo-JC7"; */
+"SwK-Fo-JC7.text" = "Label";
+
+/* Class = "UILabel"; text = "Currencies Used"; ObjectID = "UbK-e6-btI"; */
+"UbK-e6-btI.text" = "Currencies Used";
+
+/* Class = "UILabel"; text = "Hey, Adam!"; ObjectID = "VKf-kE-17q"; */
+"VKf-kE-17q.text" = "Hey, Adam!";
+
+/* Class = "UILabel"; text = "Hey, welcome to the"; ObjectID = "WJ6-MR-HbP"; */
+"WJ6-MR-HbP.text" = "Hey, welcome to the";
+
+/* Class = "UILabel"; text = "$183.00"; ObjectID = "XFi-ki-Z8k"; */
+"XFi-ki-Z8k.text" = "$183.00";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "Xxu-m5-ejb"; */
+"Xxu-m5-ejb.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "and entering your trip passcode."; ObjectID = "a6i-VC-tad"; */
+"a6i-VC-tad.text" = "and entering your trip passcode.";
+
+/* Class = "UILabel"; text = "lot of fun! Had a lot of fun! lot of fun! Had a lot of fun! lot of FUN"; ObjectID = "aan-uQ-42c"; */
+"aan-uQ-42c.text" = "lot of fun! Had a lot of fun! lot of fun! Had a lot of fun! lot of FUN";
+
+/* Class = "UILabel"; text = "Budget"; ObjectID = "ajb-cN-gXh"; */
+"ajb-cN-gXh.text" = "Check Amount";
+
+/* Class = "UILabel"; text = "Stephen Holdsworth"; ObjectID = "axd-X9-3dA"; */
+"axd-X9-3dA.text" = "Stephen Holdsworth";
+
+/* Class = "UILabel"; text = "Remaining"; ObjectID = "b42-Im-z6a"; */
+"b42-Im-z6a.text" = "Remaining";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cr7-PT-RyK"; */
+"cr7-PT-RyK.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Select Trip"; ObjectID = "dWF-U6-Pku"; */
+"dWF-U6-Pku.title" = "Select Trip";
+
+/* Class = "UILabel"; text = "Login by selecting your trip"; ObjectID = "dZ0-SA-vHp"; */
+"dZ0-SA-vHp.text" = "Login by selecting your trip";
+
+/* Class = "UILabel"; text = "Besides USD, will this trip use any other currencies?"; ObjectID = "dce-fn-m3S"; */
+"dce-fn-m3S.text" = "Besides USD, will this trip use any other currencies?";
+
+/* Class = "UILabel"; text = "This trip has been Archived. if you feel that more receipts need to entered for this trip, email"; ObjectID = "dzG-jX-nxD"; */
+"dzG-jX-nxD.text" = "This trip has been Archived. if you feel that more receipts need to entered for this trip, email";
+
+/* Class = "UILabel"; text = "to make the app work better for you."; ObjectID = "eQa-g5-81c"; */
+"eQa-g5-81c.text" = "to make the app work better for you.";
+
+/* Class = "UILabel"; text = "Adam Jones"; ObjectID = "g3Z-W1-uxd"; */
+"g3Z-W1-uxd.text" = "Adam Jones";
+
+/* Class = "UILabel"; text = "Bethel Missions Receipt app!"; ObjectID = "ggw-bi-wiV"; */
+"ggw-bi-wiV.text" = "Bethel Missions Receipt app!";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "iLN-7n-to5"; */
+"iLN-7n-to5.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "jAJ-Px-3X1"; */
+"jAJ-Px-3X1.normalTitle" = "Done";
+
+/* Class = "UINavigationItem"; title = "Currencies"; ObjectID = "lUR-ea-kVr"; */
+"lUR-ea-kVr.title" = "Currencies";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "nMa-zV-B3Y"; */
+"nMa-zV-B3Y.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "nRk-1d-WYF"; */
+"nRk-1d-WYF.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "obc-cB-keh"; */
+"obc-cB-keh.normalTitle" = "DONE";
+
+/* Class = "UILabel"; text = "choose trip"; ObjectID = "pZi-Vk-9DR"; */
+"pZi-Vk-9DR.text" = "choose trip";
+
+/* Class = "UIButton"; normalTitle = "TAKE PHOTO"; ObjectID = "qlT-PS-3qe"; */
+"qlT-PS-3qe.normalTitle" = "TAKE PHOTO";
+
+/* Class = "UILabel"; text = "Fun Day"; ObjectID = "rJm-rS-VjL"; */
+"rJm-rS-VjL.text" = "Fun Day";
+
+/* Class = "UILabel"; text = "Don't see the currency you're  looking for?"; ObjectID = "rRC-0h-vT4"; */
+"rRC-0h-vT4.text" = "Don't see the currency you're  looking for?";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "s6D-SH-9h7"; */
+"s6D-SH-9h7.normalTitle" = "Help";
+
+/* Class = "UILabel"; text = "Can you clearly read the rate and vendor? If not, press \"Retake\"                 "; ObjectID = "uaU-vO-n0G"; */
+"uaU-vO-n0G.text" = "Can you clearly read the rate and vendor? If not, press \"Retake\"                 ";
+
+/* Class = "UITextView"; text = "Hello"; ObjectID = "uyG-64-38H"; */
+"uyG-64-38H.text" = "Hello";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "vdx-ze-zTf"; */
+"vdx-ze-zTf.text" = "$";
+
+/* Class = "UILabel"; text = "Select Category"; ObjectID = "xOS-Z4-9dW"; */
+"xOS-Z4-9dW.text" = "Select Category";
+
+/* Class = "UILabel"; text = "What is your trip budget, in USD?"; ObjectID = "z3x-7z-qCP"; */
+"z3x-7z-qCP.text" = "What is your trip budget, in USD?";
